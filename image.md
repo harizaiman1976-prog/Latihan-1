@@ -1,2 +1,2 @@
-![GitHub logo](https://assets-cdn.github.com/omages/icons/emoji/octocat.png
+![gojo logo](https://assets-cdn.github.com/omages/icons/emoji/gojo.jpg
 "GitHub")
