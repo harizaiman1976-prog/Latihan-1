@@ -1,2 +1,2 @@
-! [Github logo](gojo.png"GitHub")
+![Github logo](gojo.png"GitHub")
 
